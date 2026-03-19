@@ -1,1 +1,3 @@
-
+Dane do ćwiczeń AI zostały pobrane ze strony Kaggle.
+Są one dostępne pod poniższym linkiem:
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets/data
