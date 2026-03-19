@@ -1,6 +1,6 @@
 ## 🧠 Fake News Detector with Explainability
 
-## Project Overview
+### Project Overview
 This project is aimed at detecting fake news using Artificial Intelligence techniques. The directory structure is organized to separate data handling, feature building, model training, evaluation, and app components to ensure clarity and maintainability.
 
 The project detects fake news using NLP and transformer-based models.
