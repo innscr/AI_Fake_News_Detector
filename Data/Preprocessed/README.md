@@ -33,11 +33,11 @@ Zaimplementowana funkcja clean_text() wykonuje:
 
 - redukcję nadmiarowych spacji
 
-4. Filtrowanie danych
+#### 4. Filtrowanie danych
 
 Usuwane są bardzo krótkie teksty (< 50 znaków)
 
-5. Podział na zbiory
+#### 5. Podział na zbiory
 
 Dane są dzielone na:
 
